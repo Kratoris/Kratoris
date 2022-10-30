@@ -1,4 +1,4 @@
-- 👋 Mi nombre es Frank, aunque uso el alis "Kratoris" por gusto tambien en videojuegos.
+- 👋 Mi nombre es Frank, aunque uso el alis "Kratoris" porque es mi nickname en videojuegos.
 - 👀 Estoy interesado en experimentar con herramientas y lenguajes a medida que aprenda, además de seguir aprendiendo cosas nuevas constantemente.
 - 🌱 Actualmente estoy aprendiendo Python con el fin de experimentar un poco con el Testing, además de patrones de diseño de algoritmos.
 - 💞️ Me gustaría colaborar con otros novatos para compartir experiencias y tambien conocer gente de mi universidada Univalle que tambien esten en este mundo de la programación.
